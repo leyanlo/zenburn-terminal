@@ -1,12 +1,13 @@
 # Zenburn for OS X Terminal
 
-This is an adaptation of Jani Nurminen’s [Zenburn] color scheme for the Terminal application built into OS X.
+This is an adaptation of Benjamin Esham’s [zenburn-terminal] adaptation of Jani Nurminen’s [Zenburn] color scheme for the Terminal application built into OS X.
 
+[zenburn-terminal]: https://github.com/bdesham/zenburn-terminal
 [Zenburn]: http://kippura.org/zenburnpage/
 
 ## Screenshot
 
-<img src="https://github.com/bdesham/zenburn-terminal/raw/master/screenshot.png" alt="Screenshot of this color scheme" width="650" height="437" />
+<img src="https://github.com/leyanlo/zenburn-terminal/raw/master/screenshot.png" alt="Screenshot of this color scheme" width="682" height="478" />
 
 ## Installation
 
@@ -16,7 +17,7 @@ This is an adaptation of Jani Nurminen’s [Zenburn] color scheme for the Termin
 4. Click the gear icon below the list of profiles and select “Import…”.
 5. Choose the “Zenburn.terminal” file from the archive you decompressed.
 
-[zipball]: https://github.com/bdesham/zenburn-terminal/archive/master.zip
+[zipball]: https://github.com/leyanlo/zenburn-terminal/archive/master.zip
 
 ### Caveat
 
@@ -28,9 +29,9 @@ This terminal profile works under OS X 10.9 (Mavericks) and 10.10 (Yosemite). I 
 
 ## Author
 
-This color scheme was created by [Benjamin Esham](https://esham.io).
+This color scheme was created by [Leyan Lo](https://github.com/leyanlo).
 
-This project is [hosted on GitHub](https://github.com/bdesham/zenburn-terminal). Please feel free to submit pull requests.
+This project is [hosted on GitHub](https://github.com/leyanlo/zenburn-terminal). Please feel free to submit pull requests.
 
 ## License
 
